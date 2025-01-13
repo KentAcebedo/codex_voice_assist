@@ -1,0 +1,12 @@
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.exe.config
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.exe
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\bin\Debug\VoiceCommand.pdb
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.AssemblyReference.cache
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.Form1.resources
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.Properties.Resources.resources
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.GenerateResource.cache
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.csproj.CoreCompileInputs.cache
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.exe
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.pdb
+C:\Users\molte\OneDrive\Documents\FinalsProgramming\VoiceCommand\VoiceCommand\obj\Debug\VoiceCommand.commands.resources
